@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/tech-insure/static/css/main.d5a022f2.chunk.css",
+    "main.js": "/tech-insure/static/js/main.52610fe3.chunk.js",
+    "main.js.map": "/tech-insure/static/js/main.52610fe3.chunk.js.map",
+    "runtime-main.js": "/tech-insure/static/js/runtime-main.c1cbb241.js",
+    "runtime-main.js.map": "/tech-insure/static/js/runtime-main.c1cbb241.js.map",
+    "static/js/2.9c207449.chunk.js": "/tech-insure/static/js/2.9c207449.chunk.js",
+    "static/js/2.9c207449.chunk.js.map": "/tech-insure/static/js/2.9c207449.chunk.js.map",
+    "index.html": "/tech-insure/index.html",
+    "precache-manifest.c985394f556b23a3f948719425fafa83.js": "/tech-insure/precache-manifest.c985394f556b23a3f948719425fafa83.js",
+    "service-worker.js": "/tech-insure/service-worker.js",
+    "static/css/main.d5a022f2.chunk.css.map": "/tech-insure/static/css/main.d5a022f2.chunk.css.map",
+    "static/js/2.9c207449.chunk.js.LICENSE.txt": "/tech-insure/static/js/2.9c207449.chunk.js.LICENSE.txt",
+    "static/media/company3.png": "/tech-insure/static/media/company3.453b8831.png",
+    "static/media/company4.jpg": "/tech-insure/static/media/company4.462563f8.jpg",
+    "static/media/footer1.jpg": "/tech-insure/static/media/footer1.c9713c1d.jpg",
+    "static/media/footer2.jpg": "/tech-insure/static/media/footer2.6cc71f6c.jpg",
+    "static/media/footer3.jpg": "/tech-insure/static/media/footer3.55a9fab2.jpg",
+    "static/media/landing.png": "/tech-insure/static/media/landing.91fba5f0.png",
+    "static/media/services1.png": "/tech-insure/static/media/services1.5cd66002.png",
+    "static/media/services2.png": "/tech-insure/static/media/services2.91fba5f0.png",
+    "static/media/services3.png": "/tech-insure/static/media/services3.edda3caa.png",
+    "static/media/services4.png": "/tech-insure/static/media/services4.748110b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1cbb241.js",
+    "static/js/2.9c207449.chunk.js",
+    "static/css/main.d5a022f2.chunk.css",
+    "static/js/main.52610fe3.chunk.js"
+  ]
+}
